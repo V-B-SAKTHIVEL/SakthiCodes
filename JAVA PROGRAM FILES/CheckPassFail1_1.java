@@ -15,5 +15,6 @@ public class CheckPassFail1_1
         {
             System.out.println("FAIL");
         }
+        System.out.println("DONE");
     }
 }
